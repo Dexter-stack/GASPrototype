@@ -1,0 +1,15 @@
+30-Apr-2022,B,0,ddd,M,4.0,Sulaiman'
+03-Apr-2022,S,0,ss,M,7.0,muhammed
+30-Apr-2022,B,1,dsaaa,O,0.30000000000000004,ssaaaa
+30-Apr-2022,B,1,ds,O,0.0,muhammedofrfame
+30-Apr-2022,B,1,oo,O,0.30000000000000004,muhaa
+30-Apr-2022,B,3,DDff,O,0.25,ggg
+30-Apr-2022,B,12,AQ,M,3.0,Taju
+30-Apr-2022,G,12,ee,M,0.0,Darasimi
+30-Apr-2022,G,12,as,M,0.0,Sulu
+30-Apr-2022,B,1,-,M,0.0,Ade
+30-Apr-2022,G,12,-,M,6.99,GOld
+30-Apr-2022,B,3,qqww,O,0.25,Muhammed
+30-Apr-2022,G,6,qwe,M,7.99,Zainab
+30-Apr-2022,B,3,AAJ319,O,0.25,Jhon jackson
+30-Apr-2022,S,3,aaa,M,7.0,Julius B
